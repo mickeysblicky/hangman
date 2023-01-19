@@ -1,0 +1,24 @@
+---
+:name: Michael
+:file: mike3
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|    / \\\n|"
+:random_word: nervous
+:wrong: 6
+:board_array:
+- _
+- e
+- _
+- _
+- o
+- _
+- s
+:guesses:
+- s
+- o
+- m
+- i
+- e
+- t
+- b
+- a
+- l

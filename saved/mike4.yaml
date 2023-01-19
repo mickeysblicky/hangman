@@ -1,0 +1,23 @@
+---
+:name: Michael
+:file: mike4
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|    / \n|"
+:random_word: teams
+:wrong: 5
+:board_array:
+- t
+- e
+- a
+- m
+- s
+:guesses:
+- o
+- i
+- e
+- c
+- b
+- a
+- r
+- t
+- m
+- s

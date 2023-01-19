@@ -1,0 +1,22 @@
+---
+:name: wazowski
+:file: wazowski1
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|     \n|"
+:random_word: coral
+:wrong: 4
+:board_array:
+- c
+- o
+- r
+- a
+- l
+:guesses:
+- a
+- i
+- w
+- "n"
+- v
+- c
+- r
+- o
+- l

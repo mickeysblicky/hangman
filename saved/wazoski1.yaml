@@ -1,0 +1,24 @@
+---
+:name: wazowski
+:file: wazoski1
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|     \n|"
+:random_word: content
+:wrong: 4
+:board_array:
+- c
+- o
+- "n"
+- t
+- e
+- "n"
+- t
+:guesses:
+- j
+- o
+- e
+- a
+- b
+- m
+- "n"
+- t
+- c

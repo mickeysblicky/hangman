@@ -1,0 +1,19 @@
+---
+:name: Michael
+:file: mike53
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|     \n|"
+:random_word: list
+:wrong: 4
+:board_array:
+- l
+- i
+- s
+- _
+:guesses:
+- s
+- o
+- e
+- i
+- f
+- h
+- l

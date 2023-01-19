@@ -1,0 +1,25 @@
+---
+:name: Michael
+:file: mike2
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|    / \n|"
+:random_word: montgomery
+:wrong: 5
+:board_array:
+- _
+- o
+- _
+- _
+- _
+- o
+- _
+- e
+- _
+- _
+:guesses:
+- s
+- f
+- p
+- i
+- o
+- a
+- e

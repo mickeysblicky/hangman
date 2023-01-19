@@ -1,0 +1,23 @@
+---
+:name: mickey
+:file: mickey 8
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|    / \n|"
+:random_word: monte
+:wrong: 5
+:board_array:
+- m
+- o
+- "n"
+- t
+- e
+:guesses:
+- i
+- e
+- o
+- c
+- "n"
+- b
+- l
+- s
+- t
+- m

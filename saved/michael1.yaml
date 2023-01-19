@@ -1,0 +1,27 @@
+---
+:name: michael
+:file: michael1
+:hangman: "______\n|     |\n|     0\n|    /|\\ \n|    / \n|"
+:random_word: leasing
+:wrong: 5
+:board_array:
+- l
+- e
+- a
+- s
+- i
+- "n"
+- g
+:guesses:
+- c
+- o
+- p
+- a
+- i
+- e
+- l
+- f
+- v
+- "n"
+- g
+- s
